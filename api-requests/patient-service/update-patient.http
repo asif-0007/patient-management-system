@@ -1,0 +1,13 @@
+### update an existing patient detail
+
+PUT http://localhost:4000/patients/223e4567-e89b-12d3-a456-426614174014
+Content-Type: application/json
+
+{
+  "name": "asif mohammad",
+  "email":"ab472384@azw.com",
+  "address":"123 main street",
+  "dateOfBirth":"1995-09-09"
+}
+
+###
