@@ -4,8 +4,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "asif billing",
-  "email": "test_kafka@azw.com",
+  "name": "asif kafka test",
+  "email": "test_kafka3@amazon.com",
   "address": "123 main street",
   "dateOfBirth": "1995-09-09",
   "registeredDate": "2024-11-28"
