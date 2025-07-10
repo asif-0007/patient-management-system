@@ -5,7 +5,7 @@ Content-Type: application/json
 
 {
   "name": "asif billing",
-  "email": "test_billing70_account@azw.com",
+  "email": "test_kafka@azw.com",
   "address": "123 main street",
   "dateOfBirth": "1995-09-09",
   "registeredDate": "2024-11-28"
